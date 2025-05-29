@@ -25,16 +25,18 @@ Esta herramienta puede aplicarse tanto en prevención de accidentes como en segu
 
 ## 📁 Estructura del proyecto
 
-📂 IMG/ # Carpeta con imágenes de prueba
+## 📁 Estructura del proyecto
+```
+IMG/ # Carpeta con imágenes de prueba
 ├── 1.jpg
 ├── 2.jpg
 ...
-
 📄 app.py # App principal con interfaz Streamlit
 📄 logica.py # Clasificación del riesgo según vehículo y personas
 📄 auto.py # Detección y conteo de autos
 📄 moto.py # Detección y conteo de motos
 📄 bici.py # Detección y conteo de bicicletas
+```
 
 
 ## ▶️ ¿Cómo ejecutar?

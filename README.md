@@ -77,6 +77,22 @@ Evaluación del riesgo: bajo, moderado o alto según reglas definidas por tipo d
 ![Moto con 1 ocupante](IMG/captura-streamlit5.jpg)  
 
 
+## 🔮 Futuras aplicaciones y mejoras
+
+Este proyecto evidencia el potencial de la visión artificial para la evaluación de riesgos en entornos urbanos, contribuyendo tanto a la seguridad vial como a la prevención del delito mediante la detección automática de vehículos y ocupantes.
+
+Entre las líneas de desarrollo futuras se incluyen:
+
+- Detección de ausencia o baja calidad de patentes para identificar vehículos potencialmente sospechosos.  
+- Reconocimiento del uso de cascos y otros elementos de protección en motociclistas.  
+- Evaluación del exceso de ocupantes más allá de los límites normativos establecidos.  
+- Implementación de análisis en tiempo real para vigilancia continua y respuestas inmediatas.  
+- Integración con sistemas inteligentes de monitoreo urbano y plataformas de gestión de tránsito.  
+- Aplicación de técnicas de aprendizaje automático para mejorar la precisión de detección y adaptabilidad a diferentes escenarios y condiciones ambientales.
+
+Estas mejoras fortalecerán la capacidad preventiva en ciudades inteligentes, facilitando intervenciones oportunas ante situaciones irregulares y ampliando el impacto social del sistema.
+
+
 ## 🙌 Sobre el proyecto
 
 Este proyecto fue desarrollado con el objetivo de aplicar visión artificial a un problema real y contextualizado.  

@@ -24,8 +24,6 @@ Esta herramienta puede aplicarse tanto en prevención de accidentes como en segu
 
 
 ## 📁 Estructura del proyecto
-
-## 📁 Estructura del proyecto
 ```
 IMG/ # Carpeta con imágenes de prueba
 ├── 1.jpg
